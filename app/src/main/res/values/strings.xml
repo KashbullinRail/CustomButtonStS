@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CustomButtonStS</string>
+    <string name="button">Button</string>
+    <string name="button_1">Button_1</string>
+    <string name="button_2">Button_2</string>
+    <string name="button_3">Button_3</string>
+</resources>
